@@ -1,0 +1,113 @@
+.avatar-60.photo {
+	width: 50px;
+	height: 50px;
+	padding: 0;
+	float: right;
+	border-radius: 50%;
+}
+.social-links a span {
+	font-size: 16px;
+	margin-left: 5px;
+}
+
+.wp-share-button-popup.wp-share-button-popup-10 .popup-buttons span {
+	display: none;
+}
+
+.split-footer .menu li a {
+	font-size: 11px;
+}
+
+.split-footer .menu li {
+	list-style: none;
+	display: inline-block;
+}
+
+.split-footer .menu{
+	padding: 0;
+}
+
+.hero-image {
+	background-position: center !important;
+	background-size: cover !important;
+}
+
+.post-pagination .nav-links a {
+	font-size: 16px;
+}
+.post-pagination .nav-links .page-numbers {
+	margin-right: 10px;
+}
+.post-pagination {
+	margin-top: 30px;
+}
+
+.post-pagination .nav-links .page-numbers.current {
+	font-size: 16px;
+}
+
+.error-area-wrapper {
+	width: 100%;
+	height: 500px;
+}
+.other-catergories ul li {
+	margin-right: 7px;
+}
+
+.similar-post.widget_recent_entries ul {
+	padding: 0;
+}
+
+.similar-post.widget_recent_entries ul li {
+	list-style: none;
+}
+
+.social-links .apss-icon-block.clearfix i {
+	color: #ccc !important;
+	font-size: 20px;
+}
+
+
+.social-links .social-link-content .social-link-twitter {
+	background: none;
+	border: none;
+}
+
+.social-links .social-link-content .social-link-facebook {
+	background: none;
+	border: none;
+}
+
+.social-links .social-link-content .social-link-email {
+	background: none;
+	border: none;
+}
+
+.social-links .social-link-content .social-link-twitter:hover {
+	color: #ccc;
+}
+
+.social-links .social-link-content .social-link:hover, .social-link-content .social-link-1:hover {
+	background: none;
+}
+
+.social-links .social-link-content .social-link, .social-link-content .social-link-1 {
+	font-size: 22px;
+	color: #ccc;
+}
+
+.social-links .social-link-content .social-link-facebook:hover {
+	color: #ccc;
+}
+
+.social-links .social-link-content .social-link, .social-link-content .social-link-1 {
+	width: 0;
+	height: 0;
+	color: #ccc !important;
+	padding: 0 15px;
+}
+
+.social-links .social-link-content .social-link:hover, .social-link-content .social-link-1:hover {
+	background: none !important;
+}
+

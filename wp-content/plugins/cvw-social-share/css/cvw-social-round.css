@@ -1,0 +1,68 @@
+/* Round style */
+
+.social-link-content {
+    position: relative;
+    text-align: center;
+    margin: 30px auto;
+    clear: both;
+}
+
+.social-link-content .social-link, .social-link-content .social-link-1 {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 36px;
+    text-align: center;
+    font-size: 17px;
+    margin: 5px 8px;
+    border-top: 3px solid #fff;
+    border-radius: 50%;
+    transition: all .1s ease-out;
+    -webkit-transition: all .1s ease-out;
+    -moz-transition: all .1s ease-out;
+    -o-transition: all .1s ease-out;
+}
+
+.social-link-content .social-link-facebook {
+    color: #3b5998!important;
+    border-color: #3b5998!important;
+}
+
+.social-link-content .social-link-twitter {
+    color: #00aced!important;
+    border-color: #00aced!important;
+}
+
+.social-link-content .social-link-google-plus {
+    color: #d34836!important;
+    border-color: #d34836!important;
+}
+
+.social-link-content .social-link-whatsapp {
+    color: #25d366!important;
+    border-color: #25d366!important;
+}
+
+.social-link-content .social-link-linkedin {
+    color: #0077b5!important;
+    border-color: #0077b5!important;
+}
+
+.social-link-content .social-link-pinterest {
+    color: #c8232c!important;
+    border-color: #c8232c!important;
+}
+
+.social-link-content .social-link-email {
+    color: #666!important;
+    border-color: #666!important;
+}
+
+.social-link-content .social-link, .social-link-content .social-link-1 {
+    border-bottom: 3px solid #fff!important;
+}
+
+.social-link-content .social-link:hover, .social-link-content .social-link-1:hover {
+    border-top: 3px solid #fff!important;
+    border-bottom: 3px solid!important;
+}
